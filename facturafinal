@@ -1,3 +1,9 @@
+/*
+*NOMBRE:Proyecto No. 1
+*AUTOR:Wadith Enrique Montenegro , Yuri Orfilia Sanchez , Cristhian David Giraldo
+*FECHA:Septiembre/2017
+*DESCRIPCION:Crear una Factura de venta
+*/
 #include<stdio.h>
 #include<windows.h>
 #include <conio.h>
